@@ -1,5 +1,5 @@
-create database Finco;
-use Finco;
+create database Fincol;
+use Fincol;
 create table cliente(
 id_cliente varchar(15) not null,
 nombre_cliente varchar(80) not null,
